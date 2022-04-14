@@ -3,6 +3,10 @@ Link para download do Git:https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otmizar o uso do Git
 
 Comando dos git:
+git config --global user.email ""
+git config --globam user.name ""
+git config --list
+git add *
 git clone
 git init
 git status
